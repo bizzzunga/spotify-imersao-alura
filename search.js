@@ -3,7 +3,7 @@ const playlistContainer = document.getElementById("result-playlists");
 const searchInput = document.getElementById("search-input");
 
 function requestApi(searchTerm) {
-  const url = `http://localhost:3000/artists?name_like=f${searchTerm}`
+  const url = `https://vercel-restful-api.vercel.app/artists?name_like=${searchTerm}`
     fetch(url)
     .then((response) => response.json())
     .then((results) => displayResults(results));
@@ -13,7 +13,7 @@ function displayResults(results) {
   hidePlaylists();
   const artistImage = document.getElementById("artist-img");
   const artistName = document.getElementById("artist-name");
-  console.log(displayResults)
+  console.log(displayResults);
 
   results.forEach((element) => {
     artistImage.src = element.urlImg;

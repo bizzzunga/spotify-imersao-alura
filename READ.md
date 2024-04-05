@@ -1,46 +1,63 @@
-# Projeto Inicial
-Desafio proposto pela Alura para testar lógica de programação com JavaScript. O projeto se baseia em criar um jogo com tentativas para acertar um número secreto, com condições, acertos e erros.
+# SPOTIFY - Imersão Front-End
 
-## Índice
-- <a href= "#funcionalidades">Funcionalidades do Projeto</a>
-- <a href= "#tecnologias utilizadas">Tecnologias utilizadas</a>
-- <a href= "#rodar">Como rodar este projeto?</a>
-- <a href= "#pessoa">Pessoa autora</a>
+Projeto desenvolvido durante a Imersão Front end da Alura. Inspirado no site do Spotify e feito com HTML, CSS e JavaScript.
 
-## 📱Funcionalidades do projeto
 
-- Oferecer um alert para que o usuário adivinhe o número secreto;
-![home](./img/home.png)
-- Validar o valor digitado se o usuário acertou ou errou;
-![tentativa1](./img/tentativa1.png)
-- Tela de acerto para o cenário de sucesso e quantidade de tentativas;
-![tentativa3](./img/tentativa3.png)
-- Possibilidade de nova tentativa em cenário de erro.
-![tentativa2](./img/tentativa2.png)
+### Como ficou?
 
-## Tecnologias utilizadas
+Acesse <a href="#">Website</a> e veja o resultado.
 
-1. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-2. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-3. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### 🎬 Demonstração
 
-## 💻Como rodar este projeto?
+![gif1](C:\Users\LowCost\Downloads\demonstração.gif)
+
+### ⚒ Linguagens e Ferramentas 
+<div display-flex >
+<img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5" width="40" height="40" />
+<img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3" width="40" height="40"/>
+<img width="40px" hspace="2px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT" width="40" height="40"/>
+</div>
+
+
+### O que aprendi
+
+ - Manipulação do DOM;
+ - Responsividade com CSS;
+ - CSS Grid;
+ - Media Queries;
+ - Pseudo-classes;
+ - Introdução aos Frameworks React e Angular.
+
+
+### Como rodar localmente
+
+Clone o projeto
+
 ```bash
-# Clone este repositório
-$ git clone linkrepo
-
-# Acesse a pasta do projeto no seu terminal
-$ logica-js-projeto_inicial
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação
-$ npm run start
-
-# A aplicação será iniciada na porta 3000, acesse pelo navegador: http://localhost:3000
+  git clone https://github.com/bizzzunga/spotify-imersao-alura.git
 ```
 
-## Pessoa autora
+Entre no diretório do projeto
 
-[Julia Goulart - Linkedin](https://www.linkedin.com/in/juliagoulartux/)
+```bash
+  cd spotify-imersao-alura
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run start
+```
+
+<br>
+
+
+### Autora
+
+- [Julia Goulart](https://www.linkedin.com/in/juliagoulartux/)
