@@ -8,7 +8,7 @@ Acesse <a href="https://bizzzunga.github.io/spotify-imersao-alura/">Website</a> 
 
 ### 📽️ Demonstração
 
-![demonstração](https://github.com/bizzzunga/spotify-imersao-alura/assets/125987818/c95fc518-49ac-4e31-8675-a89759fefa0e)
+https://github.com/bizzzunga/spotify-imersao-alura/assets/125987818/e35ad6f3-85e2-454b-9a4e-e24d00903906
 
 ### ⚒ Linguagens e Ferramentas 
 <div display-flex >
@@ -18,7 +18,7 @@ Acesse <a href="https://bizzzunga.github.io/spotify-imersao-alura/">Website</a> 
 </div>
 
 
-### O que aprendi
+### 📖 O que aprendi
 
  - Manipulação do DOM;
  - Responsividade com CSS;
@@ -28,7 +28,7 @@ Acesse <a href="https://bizzzunga.github.io/spotify-imersao-alura/">Website</a> 
  - Introdução aos Frameworks React e Angular.
 
 
-### Como rodar localmente
+### 💿 Como rodar localmente
 
 Clone o projeto
 
@@ -57,6 +57,6 @@ Inicie o servidor
 <br>
 
 
-### Autora
+### 🙋🏻‍♀️ Autora
 
 - [Julia Goulart](https://www.linkedin.com/in/juliagoulartux/)
